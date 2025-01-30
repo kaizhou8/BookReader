@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jIBnXU9jm9ym+0RT8oijztrlKR/BmIxRULd7cuLL3c8=",
+  "Source": "BookReader.Web",
+  "BasePath": "_content/BookReader.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

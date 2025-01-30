@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g4ugtSEim8HP1UZGSVAbH165nD3BC8rX8KYRKltNaPc=",
+  "Source": "BookReader.API",
+  "BasePath": "_content/BookReader.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

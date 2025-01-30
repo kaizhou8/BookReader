@@ -1,0 +1,17 @@
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\bin\Debug\net8.0\BookReader.Core.deps.json
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\bin\Debug\net8.0\BookReader.Core.dll
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\bin\Debug\net8.0\BookReader.Core.pdb
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\bin\Debug\net8.0\BookReader.Common.dll
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\bin\Debug\net8.0\BookReader.Common.pdb
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\obj\Debug\net8.0\BookReader.Core.csproj.AssemblyReference.cache
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\obj\Debug\net8.0\BookReader.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\obj\Debug\net8.0\BookReader.Core.AssemblyInfoInputs.cache
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\obj\Debug\net8.0\BookReader.Core.AssemblyInfo.cs
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\obj\Debug\net8.0\BookReader.Core.csproj.CoreCompileInputs.cache
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\obj\Debug\net8.0\BookRead.9B059DFF.Up2Date
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\obj\Debug\net8.0\BookReader.Core.dll
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\obj\Debug\net8.0\refint\BookReader.Core.dll
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\obj\Debug\net8.0\BookReader.Core.pdb
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\obj\Debug\net8.0\ref\BookReader.Core.dll
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\bin\Debug\net8.0\BookReader.Data.dll
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Core\bin\Debug\net8.0\BookReader.Data.pdb

@@ -1,0 +1,15 @@
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\bin\Debug\net8.0\BookReader.Data.deps.json
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\bin\Debug\net8.0\BookReader.Data.dll
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\bin\Debug\net8.0\BookReader.Data.pdb
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\obj\Debug\net8.0\BookReader.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\obj\Debug\net8.0\BookReader.Data.AssemblyInfoInputs.cache
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\obj\Debug\net8.0\BookReader.Data.AssemblyInfo.cs
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\obj\Debug\net8.0\BookReader.Data.csproj.CoreCompileInputs.cache
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\obj\Debug\net8.0\BookReader.Data.dll
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\obj\Debug\net8.0\refint\BookReader.Data.dll
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\obj\Debug\net8.0\BookReader.Data.pdb
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\obj\Debug\net8.0\ref\BookReader.Data.dll
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\bin\Debug\net8.0\BookReader.Common.dll
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\bin\Debug\net8.0\BookReader.Common.pdb
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\obj\Debug\net8.0\BookReader.Data.csproj.AssemblyReference.cache
+C:\Users\phoen\Documents\wind\BookReader\src\BookReader.Data\obj\Debug\net8.0\BookRead.85B6E881.Up2Date
