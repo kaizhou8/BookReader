@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ude.NetStandard" Version="1.2.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.23.1" />
+    <PackageReference Include="VersOne.Epub" Version="3.3.1" />
+    <PackageReference Include="itext7" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookReader.Common\BookReader.Common.csproj" />
+    <ProjectReference Include="..\BookReader.Data\BookReader.Data.csproj" />
+  </ItemGroup>
+
+</Project>

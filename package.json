@@ -1,0 +1,16 @@
+{
+  "name": "bookreader",
+  "version": "1.0.0",
+  "description": "A modern book reader application",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^1.2.1",
+    "jsdom": "^24.0.0",
+    "vitest": "^1.2.1"
+  }
+}

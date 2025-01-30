@@ -1,0 +1,6 @@
+@BookReader.Web_HostAddress = http://localhost:5125
+
+GET {{BookReader.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

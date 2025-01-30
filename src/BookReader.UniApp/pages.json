@@ -1,0 +1,87 @@
+{
+  "easycom": {
+    "autoscan": true,
+    "custom": {
+      "^uni-(.*)": "@dcloudio/uni-ui/lib/uni-$1/uni-$1.vue"
+    }
+  },
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "我的书架"
+      }
+    },
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationBarTitleText": "登录"
+      }
+    },
+    {
+      "path": "pages/register/register",
+      "style": {
+        "navigationBarTitleText": "注册"
+      }
+    },
+    {
+      "path": "pages/reader/reader",
+      "style": {
+        "navigationBarTitleText": "阅读",
+        "app-plus": {
+          "bounce": "none",
+          "scrollIndicator": "none"
+        }
+      }
+    },
+    {
+      "path": "pages/bookstore/bookstore",
+      "style": {
+        "navigationBarTitleText": "书城"
+      }
+    },
+    {
+      "path": "pages/mine/mine",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+      "path": "pages/import/url",
+      "style": {
+        "navigationBarTitleText": "从网址导入"
+      }
+    }
+  ],
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#1296db",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "书架",
+        "iconPath": "static/images/tabbar/bookshelf.png",
+        "selectedIconPath": "static/images/tabbar/bookshelf-active.png"
+      },
+      {
+        "pagePath": "pages/bookstore/bookstore",
+        "text": "书城",
+        "iconPath": "static/images/tabbar/bookstore.png",
+        "selectedIconPath": "static/images/tabbar/bookstore-active.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "static/images/tabbar/mine.png",
+        "selectedIconPath": "static/images/tabbar/mine-active.png"
+      }
+    ]
+  },
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "BookReader",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}
